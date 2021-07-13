@@ -89,5 +89,5 @@ Some of my recent projects are:
 ## Connect with me
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/im_saurabhK)
-[<img align="center" height="40" src="https://api.iconify.design/simple-icons:hashnode.svg"/>](saurabhkamboj.hashnode.dev)
+[<img align="center" height="40" src="https://api.iconify.design/simple-icons:hashnode.svg"/>](https://saurabhkamboj.hashnode.dev/)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/saurabh-kamboj/)
