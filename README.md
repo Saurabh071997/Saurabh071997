@@ -2,8 +2,7 @@
 
 I am Saurabh Kamboj, a full stack developer. I design beautiful websites in ReactJS.
 
-Reach out to me to collaborate on projects in HTML, Javascript, React, Typescript. 
-
+Reach out to me to collaborate on projects in HTML, Javascript, React, Typescript.
 
 ## Skills
 
@@ -32,11 +31,11 @@ Reach out to me to collaborate on projects in HTML, Javascript, React, Typescrip
   </a>
   
   <br/>
-  
+
 
   <a href="https://www.java.com/en/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/>
-  </a> 
+  </a>
 
   <a href="https://expressjs.com" target="_blank"> 
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -67,24 +66,26 @@ Reach out to me to collaborate on projects in HTML, Javascript, React, Typescrip
   
   <a href="https://postman.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
+  </a>
+
+  <a href="https://material-ui.com/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/50/000000/material-ui.png" alt="nextJs" width="40" height="40"/>
+  </a>  
   
-  <a href="https://postman.com" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
     <img align="center" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="nextJs" width="40" height="40"/>
   </a> 
-<br/><br/>  
-
-
+<br/><br/>
 
 ## Projects
-Some of my recent projects are: 
+
+Some of my recent projects are:
 
 [Vibeum](https://vibeum.netlify.app/) - Vibeum is a social media web application where you can connect with other users and share your thoughts.
 
 [Siete](https://siete.netlify.app/) - Siete is a fitness wear e-commerce application.
 
 [fandomQuiz](https://fandomquiz.netlify.app/) - fandomQuiz is a quiz application.
-
 
 ## Connect with me
 
