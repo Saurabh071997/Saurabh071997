@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am Saurabh Kamboj, a full stack developer. I design beautiful websites in ReactJS.
+I am Saurabh Kamboj, a full stack developer. I design beautiful and easy to use online experiences.
 
 Reach out to me to collaborate on projects in HTML, Javascript, React, Typescript.
 
